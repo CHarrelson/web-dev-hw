@@ -1,0 +1,17 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 2;
+    padding: 1;
+    background-color: #green; 
+    background-image: url('https://wallpapers.com/images/featured/cute-fruit-oxd3x473jda5wl3s.jpg');
+    background-size: fit;
+    background-position: center;
+}
+
+header {
+    background-color: pink ; 
+    color: #fff;
+    padding: 10px 0;
+    text-align: left;
+}
